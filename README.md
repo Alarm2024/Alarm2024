@@ -1,4 +1,4 @@
-Solo builder in Cairo. Small, honest tools on Solana: if a tool can't prove something, it says UNKNOWN.
+Solo builder. Small, honest tools on Solana: if a tool can't prove something, it says UNKNOWN.
 
 ## Projects
 
@@ -13,7 +13,7 @@ Solo builder in Cairo. Small, honest tools on Solana: if a tool can't prove some
 ## How I work
 
 - UNKNOWN is never 0.
-- Outside audits welcome.
+- Outside reviews welcome.
 - AI-assisted work is labelled as such.
 
 ## Contact
