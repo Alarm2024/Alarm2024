@@ -1,3 +1,10 @@
+<p align="center">
+  <img width="48%" src="assets/nature-1.jpg" alt="Lake and mountain landscape">
+  <img width="48%" src="assets/nature-2.jpg" alt="Snowy mountains at dusk">
+</p>
+
+<p align="center"><sub>Photos: <a href="https://www.pexels.com/photo/lake-and-mountain-417074/">James Wheeler</a> · <a href="https://www.pexels.com/photo/snowy-mountain-1287145/">eberhard grossgasteiger</a> (Pexels License)</sub></p>
+
 Solo builder. Small, honest tools on Solana: if a tool can't prove something, it says UNKNOWN.
 
 ## Projects
