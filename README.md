@@ -7,6 +7,8 @@
 
 Solo builder. Small, honest tools on Solana: if a tool can't prove something, it says UNKNOWN.
 
+<p align="center"><img src="assets/terminal.svg" alt="ALARM2024 weekly commits chart with totals, streak and top repos" width="100%"></p>
+
 ## Projects
 
 | Project | What it is |
